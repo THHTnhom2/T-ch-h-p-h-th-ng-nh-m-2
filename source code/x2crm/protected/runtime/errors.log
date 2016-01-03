@@ -1,0 +1,686 @@
+2015/12/27 20:49:55 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/index.php/site/login
+HTTP_REFERER=http://localhost/clinic/web/site/openerm
+---
+2015/12/27 20:50:02 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/index.php/site/login
+HTTP_REFERER=http://localhost/clinic/web/site/openerm
+---
+2015/12/28 08:35:40 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/index.php/site/login
+HTTP_REFERER=http://localhost/clinic/web/site/openerm
+---
+2015/12/28 08:35:41 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/index.php/site/login
+HTTP_REFERER=http://localhost/clinic/web/site/openerm
+---
+2015/12/28 08:35:41 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/index.php/site/login
+HTTP_REFERER=http://localhost/clinic/web/site/openerm
+---
+2015/12/28 08:35:41 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/index.php/site/login
+HTTP_REFERER=http://localhost/clinic/web/site/openerm
+---
+2015/12/28 08:36:51 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/index.php/site/login
+HTTP_REFERER=http://localhost/clinic/web/site/openerm
+---
+2015/12/28 08:39:23 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/index.php/site/login
+HTTP_REFERER=http://localhost/clinic/web/site/openerm
+---
+2015/12/28 08:39:24 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/index.php/site/login
+HTTP_REFERER=http://localhost/clinic/web/site/openerm
+---
+2015/12/28 08:39:24 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/index.php/site/login
+HTTP_REFERER=http://localhost/clinic/web/site/openerm
+---
+2015/12/28 08:41:00 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/index.php/site/login
+HTTP_REFERER=http://localhost/clinic/web/site/openerm
+---
+2015/12/28 08:41:01 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/index.php/site/login
+HTTP_REFERER=http://localhost/clinic/web/site/openerm
+---
+2015/12/28 08:41:01 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/index.php/site/login
+HTTP_REFERER=http://localhost/clinic/web/site/openerm
+---
+2015/12/28 08:41:01 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/index.php/site/login
+HTTP_REFERER=http://localhost/clinic/web/site/openerm
+---
+2015/12/28 08:41:01 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/index.php/site/login
+HTTP_REFERER=http://localhost/clinic/web/site/openerm
+---
+2015/12/28 08:41:02 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/index.php/site/login
+HTTP_REFERER=http://localhost/clinic/web/site/openerm
+---
+2015/12/28 08:41:02 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/index.php/site/login
+HTTP_REFERER=http://localhost/clinic/web/site/openerm
+---
+2015/12/28 08:41:02 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/index.php/site/login
+HTTP_REFERER=http://localhost/clinic/web/site/openerm
+---
+2015/12/28 08:41:02 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/index.php/site/login
+HTTP_REFERER=http://localhost/clinic/web/site/openerm
+---
+2015/12/29 10:27:32 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/index.php/site/login
+HTTP_REFERER=http://localhost/clinic/web/site/login
+---
+2015/12/29 10:28:10 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/index.php/site/login
+HTTP_REFERER=http://localhost/clinic/web/site/login
+---
+2015/12/29 10:28:57 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/index.php/site/login
+HTTP_REFERER=http://localhost/clinic/web/site/login
+---
+2015/12/29 10:29:47 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/index.php/site/login
+HTTP_REFERER=http://localhost/clinic/web/site/login
+---
+2015/12/30 10:43:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "loging".' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php:483
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(270): CController->missingAction('loging')
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CWebApplication.php(282): CController->run('loging')
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CWebApplication.php(141): CWebApplication->runController('site/loging')
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/index.php/site/loging
+---
+2015/12/30 13:45:20 [error] [exception.CException] exception 'CException' with message 'Property "CActiveForm.name" is not defined.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php:173
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CWidgetFactory.php(161): CComponent->__set('name', 'login_form')
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'CActiveForm', Array)
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CBaseController.php(197): CBaseController->createWidget('CActiveForm', Array)
+#3 E:\Data\PHP\xampp\htdocs\x2crm\protected\views\site\login.php(119): CBaseController->beginWidget('CActiveForm', Array)
+#4 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CBaseController.php(126): require('E:\\Data\\PHP\\xam...')
+#5 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CBaseController.php(95): CBaseController->renderInternal('E:\\Data\\PHP\\xam...', Array, true)
+#6 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(869): CBaseController->renderFile('E:\\Data\\PHP\\xam...', Array, true)
+#7 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\x2base.php(762): CController->renderPartial('login', Array, true)
+#8 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\SiteController.php(1458): x2base->render('login', Array)
+#9 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\actions\CInlineAction.php(49): SiteController->actionLogin()
+#10 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#12 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#13 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#14 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#15 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#16 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\x2base.php(614): CFilterChain->run()
+#17 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CInlineFilter.php(58): x2base->filterSetPortlets(Object(CFilterChain))
+#18 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\x2base.php(614): CFilterChain->run()
+#20 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CInlineFilter.php(58): x2base->filterSetPortlets(Object(CFilterChain))
+#21 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#22 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#23 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#24 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#25 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#26 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(291): CFilterChain->run()
+#27 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#28 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CWebApplication.php(282): CController->run('login')
+#29 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CWebApplication.php(141): CWebApplication->runController('site/login')
+#30 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#31 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#32 {main}
+REQUEST_URI=/x2crm/index.php/site/login?username=admin&password=admin
+---
+2015/12/30 13:45:48 [error] [exception.CException] exception 'CException' with message 'Property "CActiveForm.name" is not defined.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php:173
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CWidgetFactory.php(161): CComponent->__set('name', 'login_form')
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'CActiveForm', Array)
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CBaseController.php(197): CBaseController->createWidget('CActiveForm', Array)
+#3 E:\Data\PHP\xampp\htdocs\x2crm\protected\views\site\login.php(119): CBaseController->beginWidget('CActiveForm', Array)
+#4 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CBaseController.php(126): require('E:\\Data\\PHP\\xam...')
+#5 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CBaseController.php(95): CBaseController->renderInternal('E:\\Data\\PHP\\xam...', Array, true)
+#6 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(869): CBaseController->renderFile('E:\\Data\\PHP\\xam...', Array, true)
+#7 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\x2base.php(762): CController->renderPartial('login', Array, true)
+#8 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\SiteController.php(1458): x2base->render('login', Array)
+#9 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\actions\CInlineAction.php(49): SiteController->actionLogin()
+#10 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#12 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#13 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#14 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#15 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#16 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\x2base.php(614): CFilterChain->run()
+#17 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CInlineFilter.php(58): x2base->filterSetPortlets(Object(CFilterChain))
+#18 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\x2base.php(614): CFilterChain->run()
+#20 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CInlineFilter.php(58): x2base->filterSetPortlets(Object(CFilterChain))
+#21 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#22 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#23 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#24 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#25 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#26 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(291): CFilterChain->run()
+#27 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#28 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CWebApplication.php(282): CController->run('login')
+#29 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CWebApplication.php(141): CWebApplication->runController('site/login')
+#30 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#31 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#32 {main}
+REQUEST_URI=/x2crm/index.php/site/login
+---
+2015/12/30 13:46:18 [error] [exception.CException] exception 'CException' with message 'Property "CActiveForm.name" is not defined.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php:173
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CWidgetFactory.php(161): CComponent->__set('name', 'login_form')
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'CActiveForm', Array)
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CBaseController.php(197): CBaseController->createWidget('CActiveForm', Array)
+#3 E:\Data\PHP\xampp\htdocs\x2crm\protected\views\site\login.php(119): CBaseController->beginWidget('CActiveForm', Array)
+#4 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CBaseController.php(126): require('E:\\Data\\PHP\\xam...')
+#5 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CBaseController.php(95): CBaseController->renderInternal('E:\\Data\\PHP\\xam...', Array, true)
+#6 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(869): CBaseController->renderFile('E:\\Data\\PHP\\xam...', Array, true)
+#7 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\x2base.php(762): CController->renderPartial('login', Array, true)
+#8 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\SiteController.php(1458): x2base->render('login', Array)
+#9 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\actions\CInlineAction.php(49): SiteController->actionLogin()
+#10 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#12 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#13 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#14 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#15 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#16 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\x2base.php(614): CFilterChain->run()
+#17 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CInlineFilter.php(58): x2base->filterSetPortlets(Object(CFilterChain))
+#18 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\x2base.php(614): CFilterChain->run()
+#20 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CInlineFilter.php(58): x2base->filterSetPortlets(Object(CFilterChain))
+#21 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#22 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#23 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#24 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#25 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#26 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(291): CFilterChain->run()
+#27 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#28 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CWebApplication.php(282): CController->run('login')
+#29 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CWebApplication.php(141): CWebApplication->runController('site/login')
+#30 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#31 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#32 {main}
+REQUEST_URI=/x2crm/index.php/site/login
+---
+2015/12/30 13:46:22 [error] [exception.CException] exception 'CException' with message 'Property "CActiveForm.name" is not defined.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php:173
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CWidgetFactory.php(161): CComponent->__set('name', 'login_form')
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'CActiveForm', Array)
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CBaseController.php(197): CBaseController->createWidget('CActiveForm', Array)
+#3 E:\Data\PHP\xampp\htdocs\x2crm\protected\views\site\login.php(119): CBaseController->beginWidget('CActiveForm', Array)
+#4 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CBaseController.php(126): require('E:\\Data\\PHP\\xam...')
+#5 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CBaseController.php(95): CBaseController->renderInternal('E:\\Data\\PHP\\xam...', Array, true)
+#6 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(869): CBaseController->renderFile('E:\\Data\\PHP\\xam...', Array, true)
+#7 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\x2base.php(762): CController->renderPartial('login', Array, true)
+#8 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\SiteController.php(1458): x2base->render('login', Array)
+#9 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\actions\CInlineAction.php(49): SiteController->actionLogin()
+#10 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#12 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#13 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#14 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#15 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#16 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\x2base.php(614): CFilterChain->run()
+#17 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CInlineFilter.php(58): x2base->filterSetPortlets(Object(CFilterChain))
+#18 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\x2base.php(614): CFilterChain->run()
+#20 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CInlineFilter.php(58): x2base->filterSetPortlets(Object(CFilterChain))
+#21 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#22 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#23 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#24 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#25 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#26 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(291): CFilterChain->run()
+#27 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#28 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CWebApplication.php(282): CController->run('login')
+#29 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CWebApplication.php(141): CWebApplication->runController('site/login')
+#30 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#31 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#32 {main}
+REQUEST_URI=/x2crm/index.php/site/login?username=admin&password=admin
+---
+2015/12/30 13:46:27 [error] [exception.CException] exception 'CException' with message 'Property "CActiveForm.name" is not defined.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php:173
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CWidgetFactory.php(161): CComponent->__set('name', 'login_form')
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'CActiveForm', Array)
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CBaseController.php(197): CBaseController->createWidget('CActiveForm', Array)
+#3 E:\Data\PHP\xampp\htdocs\x2crm\protected\views\site\login.php(119): CBaseController->beginWidget('CActiveForm', Array)
+#4 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CBaseController.php(126): require('E:\\Data\\PHP\\xam...')
+#5 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CBaseController.php(95): CBaseController->renderInternal('E:\\Data\\PHP\\xam...', Array, true)
+#6 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(869): CBaseController->renderFile('E:\\Data\\PHP\\xam...', Array, true)
+#7 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\x2base.php(762): CController->renderPartial('login', Array, true)
+#8 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\SiteController.php(1458): x2base->render('login', Array)
+#9 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\actions\CInlineAction.php(49): SiteController->actionLogin()
+#10 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#12 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#13 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#14 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#15 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#16 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\x2base.php(614): CFilterChain->run()
+#17 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CInlineFilter.php(58): x2base->filterSetPortlets(Object(CFilterChain))
+#18 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\x2base.php(614): CFilterChain->run()
+#20 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CInlineFilter.php(58): x2base->filterSetPortlets(Object(CFilterChain))
+#21 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#22 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#23 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#24 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#25 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#26 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(291): CFilterChain->run()
+#27 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#28 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CWebApplication.php(282): CController->run('login')
+#29 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CWebApplication.php(141): CWebApplication->runController('site/login')
+#30 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#31 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#32 {main}
+REQUEST_URI=/x2crm/index.php/site/login
+---
+2015/12/30 13:49:46 [error] [exception.CException] exception 'CException' with message 'Property "CActiveForm.name" is not defined.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php:173
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CWidgetFactory.php(161): CComponent->__set('name', 'form_login_ta')
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'CActiveForm', Array)
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CBaseController.php(197): CBaseController->createWidget('CActiveForm', Array)
+#3 E:\Data\PHP\xampp\htdocs\x2crm\protected\views\site\login.php(119): CBaseController->beginWidget('CActiveForm', Array)
+#4 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CBaseController.php(126): require('E:\\Data\\PHP\\xam...')
+#5 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CBaseController.php(95): CBaseController->renderInternal('E:\\Data\\PHP\\xam...', Array, true)
+#6 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(869): CBaseController->renderFile('E:\\Data\\PHP\\xam...', Array, true)
+#7 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\x2base.php(762): CController->renderPartial('login', Array, true)
+#8 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\SiteController.php(1458): x2base->render('login', Array)
+#9 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\actions\CInlineAction.php(49): SiteController->actionLogin()
+#10 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#12 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#13 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#14 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#15 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#16 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\x2base.php(614): CFilterChain->run()
+#17 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CInlineFilter.php(58): x2base->filterSetPortlets(Object(CFilterChain))
+#18 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#19 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\x2base.php(614): CFilterChain->run()
+#20 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CInlineFilter.php(58): x2base->filterSetPortlets(Object(CFilterChain))
+#21 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#22 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#23 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#24 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#25 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#26 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(291): CFilterChain->run()
+#27 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#28 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CWebApplication.php(282): CController->run('login')
+#29 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CWebApplication.php(141): CWebApplication->runController('site/login')
+#30 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#31 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#32 {main}
+REQUEST_URI=/x2crm/index.php/site/login?username=admin&password=admin
+---
+2015/12/30 18:41:19 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/index.php/site/login
+HTTP_REFERER=http://localhost/x2crm/index.php/site/login
+---
+2015/12/30 18:41:36 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to use this application' in E:\Data\PHP\xampp\htdocs\x2crm\protected\components\CommonSiteControllerBehavior.php:116
+Stack trace:
+#0 [internal function]: CommonSiteControllerBehavior->login(Object(LoginForm))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#2 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\SiteController.php(1447): CComponent->__call('login', Array)
+#3 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\SiteController.php(1447): SiteController->login(Object(LoginForm))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\actions\CInlineAction.php(49): SiteController->actionLogin()
+#5 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#6 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#7 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#8 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#9 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#10 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#11 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\x2base.php(614): CFilterChain->run()
+#12 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CInlineFilter.php(58): x2base->filterSetPortlets(Object(CFilterChain))
+#13 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#14 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\x2base.php(614): CFilterChain->run()
+#15 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CInlineFilter.php(58): x2base->filterSetPortlets(Object(CFilterChain))
+#16 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#17 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#18 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#19 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#20 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#21 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(291): CFilterChain->run()
+#22 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#23 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CWebApplication.php(282): CController->run('login')
+#24 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CWebApplication.php(141): CWebApplication->runController('site/login')
+#25 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#26 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#27 {main}
+REQUEST_URI=/x2crm/index.php/site/login
+HTTP_REFERER=http://localhost/x2crm/index.php/site/login
+---
+2015/12/31 21:29:02 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/index.php
+HTTP_REFERER=http://localhost/clinic/web/site/login
+---
+2015/12/31 21:31:38 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/index.php
+HTTP_REFERER=http://localhost/clinic/web/site/login
+---
+2015/12/31 21:32:57 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/index.php
+HTTP_REFERER=http://localhost/clinic/web/site/login
+---
+2015/12/31 21:36:25 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/
+HTTP_REFERER=http://localhost/clinic/web/site/login
+---
+2015/12/31 21:36:25 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/
+HTTP_REFERER=http://localhost/clinic/web/site/login
+---
+2015/12/31 21:36:45 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/
+HTTP_REFERER=http://localhost/clinic/web/site/login
+---
+2015/12/31 21:37:06 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/
+HTTP_REFERER=http://localhost/clinic/web/site/login
+---
+2015/12/31 21:38:28 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/
+HTTP_REFERER=http://localhost/clinic/web/site/login
+---
+2015/12/31 21:38:57 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/
+HTTP_REFERER=http://localhost/clinic/web/site/login
+---
+2015/12/31 21:39:08 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/
+HTTP_REFERER=http://localhost/clinic/web/site/login
+---
+2015/12/31 21:41:51 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/
+HTTP_REFERER=http://localhost/clinic/web/site/login
+---
+2015/12/31 21:42:26 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'The CSRF token could not be verified.' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CHttpRequest.php:1326
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\protected\components\X2HttpRequest.php(56): CHttpRequest->validateCsrfToken(Object(CEvent))
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CComponent.php(561): X2HttpRequest->validateCsrfToken(Object(CEvent))
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(211): CComponent->raiseEvent('onBeginRequest', Object(CEvent))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(182): CApplication->onBeginRequest(Object(CEvent))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#5 {main}
+REQUEST_URI=/x2crm/
+HTTP_REFERER=http://localhost/clinic/web/site/login
+---
+2015/12/31 21:47:25 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'Login Required' in E:\Data\PHP\xampp\htdocs\x2crm\framework\web\auth\CWebUser.php:394
+Stack trace:
+#0 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\auth\CAccessControlFilter.php(180): CWebUser->loginRequired()
+#1 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\auth\CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(X2WebUser), 'You are not aut...')
+#2 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#3 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 E:\Data\PHP\xampp\htdocs\x2crm\protected\controllers\x2base.php(614): CFilterChain->run()
+#7 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CInlineFilter.php(58): x2base->filterSetPortlets(Object(CFilterChain))
+#8 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#10 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#11 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#12 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#13 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(291): CFilterChain->run()
+#14 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CWebApplication.php(282): CController->run('getEvents')
+#16 E:\Data\PHP\xampp\htdocs\x2crm\framework\web\CWebApplication.php(141): CWebApplication->runController('profile/getEven...')
+#17 E:\Data\PHP\xampp\htdocs\x2crm\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#18 E:\Data\PHP\xampp\htdocs\x2crm\index.php(64): CApplication->run()
+#19 {main}
+REQUEST_URI=/x2crm/index.php/profile/getEvents?lastEventId=0&lastTimestamp=0&profileId=1&myProfileId=1
+HTTP_REFERER=http://localhost/x2crm/index.php/profile/1
+---
